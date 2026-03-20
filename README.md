@@ -1,7 +1,8 @@
 # Hi 👋 I'm Riddhi Agrawal
 
-💻 **Software Engineer | Java Backend Developer | Full Stack Developer**
+💻 Software Engineer | Java Backend Developer | Full Stack Developer <br>
 🚀 Passionate about building scalable backend systems and modern web applications
+
 
 ---
 
